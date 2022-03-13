@@ -66,6 +66,7 @@ class _SliverListtState extends State<SliverListt> {
     return  CustomScrollView(
       slivers: [
         SliverAppBar(
+
           backgroundColor: Colors.teal,
           expandedHeight:70.0,
           floating: true,

@@ -46,23 +46,6 @@
                         "endColumns": "76,53,53,46,116",
                         "endOffsets": "2923,2977,3031,3078,3195"
                     }
-                },
-                {
-                    "source": "C:\\Users\\Asad Gujjar\\.gradle\\caches\\transforms-2\\files-2.1\\531b6a16eb117f795d3a09cc74512914\\jetified-zxing-android-embedded-4.1.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,104,151,244",
-                        "endColumns": "48,46,92,69",
-                        "endOffsets": "99,146,239,309"
-                    },
-                    "to": {
-                        "startLines": "36,37,38,39",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "3200,3249,3296,3389",
-                        "endColumns": "48,46,92,69",
-                        "endOffsets": "3244,3291,3384,3454"
-                    }
                 }
             ]
         }

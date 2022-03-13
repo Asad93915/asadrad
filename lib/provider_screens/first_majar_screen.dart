@@ -78,7 +78,6 @@ class _ProviderFirstState extends State<ProviderFirst> {
     );
   }
 }
-
 class Count extends StatelessWidget{
   Count({Key key}) : super(key: key);
   @override

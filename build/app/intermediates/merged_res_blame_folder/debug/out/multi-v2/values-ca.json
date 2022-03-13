@@ -4,23 +4,6 @@
             "outputFile": "C:\\Users\\Asad Gujjar\\StudioProjects\\asad_rad\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Asad Gujjar\\.gradle\\caches\\transforms-2\\files-2.1\\531b6a16eb117f795d3a09cc74512914\\jetified-zxing-android-embedded-4.1.0\\res\\values-ca\\values-ca.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,114,167,323",
-                        "endColumns": "58,52,155,112",
-                        "endOffsets": "109,162,318,431"
-                    },
-                    "to": {
-                        "startLines": "31,32,33,34",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "3013,3072,3125,3281",
-                        "endColumns": "58,52,155,112",
-                        "endOffsets": "3067,3120,3276,3389"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Asad Gujjar\\.gradle\\caches\\transforms-2\\files-2.1\\eebedfd6526cd5539e0a44e6886856e3\\core-1.5.0\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2",
